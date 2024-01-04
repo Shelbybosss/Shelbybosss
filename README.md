@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shelbybosss&label=Profile%20views&color=0e75b6&style=flat" alt="shelbybosss" /> </p>
 
-- 🌱 I’m currently learning **Backend Development , Flutter , DSA**
+- 🌱 I’m currently learning **Fullstack Development, MERN stack , DSA**
 
 - 📫 How to reach me **suhasmagar273@gmail.com, (+91) 7020463624**
 
