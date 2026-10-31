@@ -1,75 +1,101 @@
-### Hi there 👋
+<!--
+  You read README source. Respect.
+  SELECT 'hello' FROM visitors WHERE curiosity > 9000;
+  Say hi: suhasmagar273@gmail.com
+-->
 
-<h1 align="center">Hi 👋, I'm Suhas Magar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Suhas Magar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shelbybosss&label=Profile%20views&color=0e75b6&style=flat" alt="shelbybosss" /> </p>
-
-- 🌱 I’m currently learning **Fullstack Development, MERN stack , DSA**
-
-- 📫 How to reach me **suhasmagar273@gmail.com, (+91) 7020463624**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suhas-magar-46685a229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhas-magar-46685a229/" height="30" width="40" /></a>
-<a href="https://instagram.com/suhas_m1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhas_m1/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shelby7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shelby7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suhas77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhas77/" height="30" width="40" /></a>
+<p align="center">
+  I build AI tools that save people time, and I check them as carefully as the SQL underneath.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
- 
-  
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  
-  <!-- Programming Languages -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  
-  <!-- Databases -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
- 
-  
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  
-  
+<p align="center">
+  <a href="https://www.linkedin.com/in/suhasmagar"><img src="https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzY0ZmZkYSIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8+PC9zdmc+" alt="LinkedIn"></a>
+  <a href="mailto:suhasmagar273@gmail.com"><img src="https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=64ffda" alt="Email"></a>
+  <a href="https://www.leetcode.com/suhas77/"><img src="https://img.shields.io/badge/LeetCode-0a192f?style=for-the-badge&logo=leetcode&logoColor=64ffda" alt="LeetCode"></a>
+  <a href="https://www.codechef.com/users/shelby7"><img src="https://img.shields.io/badge/CodeChef-0a192f?style=for-the-badge&logo=codechef&logoColor=64ffda" alt="CodeChef"></a>
+  <a href="https://instagram.com/suhas_m1/"><img src="https://img.shields.io/badge/Instagram-0a192f?style=for-the-badge&logo=instagram&logoColor=64ffda" alt="Instagram"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shelbybosss&show_icons=true&locale=en&layout=compact" alt="shelbybosss" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shelbybosss&show_icons=true&locale=en" alt="shelbybosss" /></p>
+```sql
+-- whoami.sql
+SELECT name, role, based_in, focus
+FROM   engineers
+WHERE  github = 'Shelbybosss';
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shelbybosss&" alt="shelbybosss" /></p>
+```text
+name          role                               based_in             focus
+------------  ---------------------------------  -------------------  ----------------------------------
+Suhas Magar   Software Analyst @ Yardi Systems   Maharashtra, India   AI tools that write production SQL
+
+(1 row affected)
+```
+
+I started in 2022 with a library website in plain HTML, shipped 30+ side projects in 2024, went deep into SQL Server at Yardi, and now build with LLMs. My favourite trick: let the model make only the judgement calls, and let code check everything else.
+
+### Right now
+
+```yaml
+building:   AI tools for real estate reporting at Yardi Systems
+proud_of:   cutting my team's time per report case by 77–89%
+exploring:  [LLM agents, Model Context Protocol, hybrid retrieval]
+practising: DSA, one problem at a time
+side_quest: SyncBeats  # listen to music in sync with friends, anywhere
+```
+
+### Things I've shipped
+
+| Project | What it does | Built with |
+|---|---|---|
+| **AI report platform** · _private_ | Turns a plain-English request into a tested SQL report in 15–30 minutes instead of 2–4 hours, returning 360–415 developer-hours a month to my team | Python, hybrid search, MCP, SQL Server |
+| **[SyncBeats](https://github.com/Shelbybosss/SyncBeats)** · [live](https://syncbeats-27ay.onrender.com/) | Paste a YouTube link and listen with friends in perfect sync, with a shared queue | Node.js, Socket.io |
+| **Support knowledge assistant** · _private_ | Answers questions from past case-solution emails and cites every email it used | LangGraph, RAG, Streamlit |
+| **[NoTube](https://github.com/Shelbybosss/youtube-summarizer-notube)** | Turns a YouTube video into a summary and a mind map | React, Node.js |
+| **[BinaryB Cast](https://github.com/Shelbybosss/MobileScreenMirroringPC-Control-Application-)** | Mirrors and controls an Android phone from a PC, with 60% lower latency | Electron, ADB |
+| **[Rate-limited task queue](https://github.com/Shelbybosss/redis-taskqueing)** | Lets each user run 1 task a second and 20 a minute, and queues the rest | Node.js, Redis |
+
+### Toolbox
+
+**AI and LLM**<br>
+<img src="https://img.shields.io/badge/LangChain-0a192f?style=flat-square&logo=langchain&logoColor=64ffda" alt="LangChain">
+<img src="https://img.shields.io/badge/LangGraph-0a192f?style=flat-square&logo=langgraph&logoColor=64ffda" alt="LangGraph">
+<img src="https://img.shields.io/badge/RAG-0a192f?style=flat-square" alt="RAG">
+<img src="https://img.shields.io/badge/MCP-0a192f?style=flat-square&logo=anthropic&logoColor=64ffda" alt="Model Context Protocol">
+<img src="https://img.shields.io/badge/Claude_Code-0a192f?style=flat-square&logo=claude&logoColor=64ffda" alt="Claude Code">
+<img src="https://img.shields.io/badge/Streamlit-0a192f?style=flat-square&logo=streamlit&logoColor=64ffda" alt="Streamlit">
+
+**Data**<br>
+<img src="https://img.shields.io/badge/SQL_Server-0a192f?style=flat-square" alt="SQL Server">
+<img src="https://img.shields.io/badge/T--SQL-0a192f?style=flat-square" alt="T-SQL">
+<img src="https://img.shields.io/badge/PostgreSQL-0a192f?style=flat-square&logo=postgresql&logoColor=64ffda" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/SQLite-0a192f?style=flat-square&logo=sqlite&logoColor=64ffda" alt="SQLite">
+<img src="https://img.shields.io/badge/Redis-0a192f?style=flat-square&logo=redis&logoColor=64ffda" alt="Redis">
+<img src="https://img.shields.io/badge/Power_BI-0a192f?style=flat-square" alt="Power BI">
+
+**Code and web**<br>
+<img src="https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=64ffda" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-0a192f?style=flat-square&logo=javascript&logoColor=64ffda" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-0a192f?style=flat-square&logo=nodedotjs&logoColor=64ffda" alt="Node.js">
+<img src="https://img.shields.io/badge/React-0a192f?style=flat-square&logo=react&logoColor=64ffda" alt="React">
+<img src="https://img.shields.io/badge/Express-0a192f?style=flat-square&logo=express&logoColor=64ffda" alt="Express">
+<img src="https://img.shields.io/badge/Socket.io-0a192f?style=flat-square&logo=socketdotio&logoColor=64ffda" alt="Socket.io">
+<img src="https://img.shields.io/badge/Java-0a192f?style=flat-square&logo=openjdk&logoColor=64ffda" alt="Java">
+<img src="https://img.shields.io/badge/Git-0a192f?style=flat-square&logo=git&logoColor=64ffda" alt="Git">
+
+### Commit streak
+
+<img src="https://streak-stats.demolab.com?user=Shelbybosss&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&stroke=233554&currStreakNum=ccd6f6&currStreakLabel=64ffda&sideNums=ccd6f6&sideLabels=a8b2d1&dates=8892b0" alt="GitHub streak">
+
+<br>
+
+```sql
+COMMIT;  -- thanks for stopping by
+```
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=shelbybosss&label=Profile%20views&color=0a192f&style=flat-square" alt="Profile views">
+</p>
